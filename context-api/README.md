@@ -209,7 +209,7 @@ npm run deploy
 [comment]: # (## Contributing)
 
 ## Links
-+ <a href = "https://github.com/chyroshan066/crypto-hunter">Project homepage</a>
++ <a href = "https://github.com/chyroshan066/react/tree/main/context-api">Project homepage</a>
 + Other Projects:
   - <a href = "https://github.com/chyroshan066/text-formatter">Text Formatter</a>
   - <a href = "https://github.com/chyroshan066/notes">Notes</a>
