@@ -165,7 +165,7 @@ npm run deploy
 [comment]: # (## Contributing)
 
 ## Links
-+ <a href = "https://github.com/chyroshan066/react/tree/main/react-slick">Project homepage</a>
++ <a href = "https://github.com/chyroshan066/react/tree/main/react-alice-carousel">Project homepage</a>
 + Other Projects:
   - <a href = "https://github.com/chyroshan066/text-formatter">Text Formatter</a>
   - <a href = "https://github.com/chyroshan066/notes">Notes</a>
